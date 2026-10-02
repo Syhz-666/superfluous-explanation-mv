@@ -1,0 +1,23 @@
+# ── 依赖 ──
+node_modules/
+
+# ── 渲染产物 ──
+# 成片有 157MB，不适合进版本库。想要看请自己渲染，见 README。
+out/
+
+# ── 分析中间产物 ──
+# 含 demucs 分离出的人声轨（约 200MB）和 whisper 模型缓存（约 1.6GB），
+# 都能用 scripts/ 下的脚本重新生成。
+analysis/
+
+# ── 未使用的原始文件 ──
+# 酷我音乐的 DRM 加密格式，任何工具都解不开，留着只会让仓库变大。
+assets/*.kwm
+
+# ── 别的工具留在本目录的东西，不属于这个项目 ──
+.workbuddy/
+
+# ── 系统 ──
+.DS_Store
+Thumbs.db
+desktop.ini

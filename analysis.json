@@ -1,0 +1,3775 @@
+{
+  "source": "许嵩 - 多余的解释.wav",
+  "duration": 277.04,
+  "fps": 30,
+  "bpm": 83.35,
+  "beat_count": 381,
+  "beats": [
+    {
+      "sec": 1.37,
+      "frame": 41,
+      "strength": 0.514,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 2.206,
+      "frame": 66,
+      "strength": 1.0,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 2.949,
+      "frame": 88,
+      "strength": 0.085,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 3.669,
+      "frame": 110,
+      "strength": 0.183,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 4.389,
+      "frame": 132,
+      "strength": 0.301,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 5.085,
+      "frame": 153,
+      "strength": 0.739,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 5.828,
+      "frame": 175,
+      "strength": 0.177,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 6.548,
+      "frame": 196,
+      "strength": 0.294,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 7.268,
+      "frame": 218,
+      "strength": 0.347,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 7.964,
+      "frame": 239,
+      "strength": 0.603,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 8.568,
+      "frame": 257,
+      "strength": 0.012,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 9.172,
+      "frame": 275,
+      "strength": 0.486,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 9.892,
+      "frame": 297,
+      "strength": 0.587,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 10.635,
+      "frame": 319,
+      "strength": 0.24,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 11.331,
+      "frame": 340,
+      "strength": 0.321,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 12.074,
+      "frame": 362,
+      "strength": 0.242,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 12.771,
+      "frame": 383,
+      "strength": 0.821,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 13.491,
+      "frame": 405,
+      "strength": 0.24,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 14.211,
+      "frame": 426,
+      "strength": 0.214,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 14.93,
+      "frame": 448,
+      "strength": 0.347,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 15.65,
+      "frame": 470,
+      "strength": 0.638,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 16.254,
+      "frame": 488,
+      "strength": 0.014,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 16.858,
+      "frame": 506,
+      "strength": 0.486,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 17.578,
+      "frame": 527,
+      "strength": 0.453,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 18.297,
+      "frame": 549,
+      "strength": 0.159,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 18.994,
+      "frame": 570,
+      "strength": 0.225,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 19.714,
+      "frame": 591,
+      "strength": 0.228,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 20.457,
+      "frame": 614,
+      "strength": 0.374,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 21.06,
+      "frame": 632,
+      "strength": 0.013,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 21.687,
+      "frame": 651,
+      "strength": 0.207,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 22.384,
+      "frame": 672,
+      "strength": 0.256,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 23.081,
+      "frame": 692,
+      "strength": 0.198,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 23.8,
+      "frame": 714,
+      "strength": 0.302,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 24.543,
+      "frame": 736,
+      "strength": 0.16,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 25.263,
+      "frame": 758,
+      "strength": 0.378,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 26.006,
+      "frame": 780,
+      "strength": 0.132,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 26.726,
+      "frame": 802,
+      "strength": 0.1,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 27.423,
+      "frame": 823,
+      "strength": 0.376,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 28.143,
+      "frame": 844,
+      "strength": 0.384,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 28.862,
+      "frame": 866,
+      "strength": 0.159,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 29.582,
+      "frame": 887,
+      "strength": 0.553,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 30.418,
+      "frame": 913,
+      "strength": 0.015,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 31.277,
+      "frame": 938,
+      "strength": 0.316,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 31.997,
+      "frame": 960,
+      "strength": 0.168,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 32.694,
+      "frame": 981,
+      "strength": 0.11,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 33.39,
+      "frame": 1002,
+      "strength": 0.566,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 34.133,
+      "frame": 1024,
+      "strength": 0.063,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 34.83,
+      "frame": 1045,
+      "strength": 0.318,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 35.457,
+      "frame": 1064,
+      "strength": 0.039,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 36.084,
+      "frame": 1083,
+      "strength": 0.351,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 36.78,
+      "frame": 1103,
+      "strength": 0.258,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 37.5,
+      "frame": 1125,
+      "strength": 0.074,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 38.243,
+      "frame": 1147,
+      "strength": 0.116,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 38.94,
+      "frame": 1168,
+      "strength": 0.252,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 39.66,
+      "frame": 1190,
+      "strength": 0.592,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 40.356,
+      "frame": 1211,
+      "strength": 0.129,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 41.076,
+      "frame": 1232,
+      "strength": 0.436,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 41.819,
+      "frame": 1255,
+      "strength": 0.211,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 42.539,
+      "frame": 1276,
+      "strength": 0.341,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 43.259,
+      "frame": 1298,
+      "strength": 0.395,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 43.862,
+      "frame": 1316,
+      "strength": 0.226,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 44.466,
+      "frame": 1334,
+      "strength": 0.285,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 45.163,
+      "frame": 1355,
+      "strength": 0.155,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 45.929,
+      "frame": 1378,
+      "strength": 0.145,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 46.649,
+      "frame": 1399,
+      "strength": 0.082,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 47.345,
+      "frame": 1420,
+      "strength": 0.382,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 48.065,
+      "frame": 1442,
+      "strength": 0.151,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 48.785,
+      "frame": 1464,
+      "strength": 0.285,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 49.482,
+      "frame": 1484,
+      "strength": 0.237,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 50.225,
+      "frame": 1507,
+      "strength": 0.255,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 50.945,
+      "frame": 1528,
+      "strength": 0.255,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 51.688,
+      "frame": 1551,
+      "strength": 0.122,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 52.384,
+      "frame": 1572,
+      "strength": 0.127,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 53.104,
+      "frame": 1593,
+      "strength": 0.31,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 53.847,
+      "frame": 1615,
+      "strength": 0.079,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 54.544,
+      "frame": 1636,
+      "strength": 0.28,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 55.263,
+      "frame": 1658,
+      "strength": 0.192,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 55.983,
+      "frame": 1679,
+      "strength": 0.404,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 56.726,
+      "frame": 1702,
+      "strength": 0.184,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 57.446,
+      "frame": 1723,
+      "strength": 0.132,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 58.143,
+      "frame": 1744,
+      "strength": 0.151,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 58.863,
+      "frame": 1766,
+      "strength": 0.378,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 59.582,
+      "frame": 1787,
+      "strength": 0.237,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 60.279,
+      "frame": 1808,
+      "strength": 0.024,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 60.976,
+      "frame": 1829,
+      "strength": 0.239,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 61.742,
+      "frame": 1852,
+      "strength": 0.254,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 62.694,
+      "frame": 1881,
+      "strength": 0.63,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 63.414,
+      "frame": 1902,
+      "strength": 0.214,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 64.11,
+      "frame": 1923,
+      "strength": 0.268,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 64.877,
+      "frame": 1946,
+      "strength": 0.138,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 65.573,
+      "frame": 1967,
+      "strength": 0.075,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 66.316,
+      "frame": 1989,
+      "strength": 0.126,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 67.036,
+      "frame": 2011,
+      "strength": 0.087,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 67.733,
+      "frame": 2032,
+      "strength": 0.056,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 68.476,
+      "frame": 2054,
+      "strength": 0.148,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 69.219,
+      "frame": 2077,
+      "strength": 0.177,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 69.915,
+      "frame": 2097,
+      "strength": 0.1,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 70.635,
+      "frame": 2119,
+      "strength": 0.106,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 71.332,
+      "frame": 2140,
+      "strength": 0.409,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 72.098,
+      "frame": 2163,
+      "strength": 0.074,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 72.911,
+      "frame": 2187,
+      "strength": 0.029,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 73.723,
+      "frame": 2212,
+      "strength": 0.128,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 74.466,
+      "frame": 2234,
+      "strength": 0.268,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 75.186,
+      "frame": 2256,
+      "strength": 0.187,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 75.906,
+      "frame": 2277,
+      "strength": 0.263,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 76.626,
+      "frame": 2299,
+      "strength": 0.064,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 77.346,
+      "frame": 2320,
+      "strength": 0.108,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 78.065,
+      "frame": 2342,
+      "strength": 0.412,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 78.785,
+      "frame": 2364,
+      "strength": 0.082,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 79.505,
+      "frame": 2385,
+      "strength": 0.142,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 80.225,
+      "frame": 2407,
+      "strength": 0.17,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 80.922,
+      "frame": 2428,
+      "strength": 0.271,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 81.665,
+      "frame": 2450,
+      "strength": 0.273,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 82.408,
+      "frame": 2472,
+      "strength": 0.093,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 83.127,
+      "frame": 2494,
+      "strength": 0.062,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 83.824,
+      "frame": 2515,
+      "strength": 0.105,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 84.567,
+      "frame": 2537,
+      "strength": 0.132,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 85.264,
+      "frame": 2558,
+      "strength": 0.114,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 85.983,
+      "frame": 2580,
+      "strength": 0.117,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 86.703,
+      "frame": 2601,
+      "strength": 0.239,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 87.446,
+      "frame": 2623,
+      "strength": 0.127,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 88.166,
+      "frame": 2645,
+      "strength": 0.132,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 88.979,
+      "frame": 2669,
+      "strength": 0.086,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 89.838,
+      "frame": 2695,
+      "strength": 0.29,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 90.558,
+      "frame": 2717,
+      "strength": 0.215,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 91.278,
+      "frame": 2738,
+      "strength": 0.284,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 91.974,
+      "frame": 2759,
+      "strength": 0.078,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 92.717,
+      "frame": 2782,
+      "strength": 0.059,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 93.414,
+      "frame": 2802,
+      "strength": 0.303,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 94.134,
+      "frame": 2824,
+      "strength": 0.104,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 94.854,
+      "frame": 2846,
+      "strength": 0.037,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 95.573,
+      "frame": 2867,
+      "strength": 0.053,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 96.293,
+      "frame": 2889,
+      "strength": 0.533,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 97.013,
+      "frame": 2910,
+      "strength": 0.334,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 97.617,
+      "frame": 2929,
+      "strength": 0.419,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 98.22,
+      "frame": 2947,
+      "strength": 0.557,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 98.94,
+      "frame": 2968,
+      "strength": 0.323,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 99.544,
+      "frame": 2986,
+      "strength": 0.022,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 100.124,
+      "frame": 3004,
+      "strength": 0.957,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 100.844,
+      "frame": 3025,
+      "strength": 0.201,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 101.541,
+      "frame": 3046,
+      "strength": 0.228,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 102.284,
+      "frame": 3069,
+      "strength": 0.291,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 103.004,
+      "frame": 3090,
+      "strength": 0.253,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 103.607,
+      "frame": 3108,
+      "strength": 0.026,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 104.211,
+      "frame": 3126,
+      "strength": 0.331,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 104.931,
+      "frame": 3148,
+      "strength": 0.345,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 105.604,
+      "frame": 3168,
+      "strength": 0.166,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 106.301,
+      "frame": 3189,
+      "strength": 0.329,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 106.858,
+      "frame": 3206,
+      "strength": 0.435,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 107.578,
+      "frame": 3227,
+      "strength": 0.122,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 108.321,
+      "frame": 3250,
+      "strength": 0.161,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 108.994,
+      "frame": 3270,
+      "strength": 0.123,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 109.714,
+      "frame": 3291,
+      "strength": 0.094,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 110.341,
+      "frame": 3310,
+      "strength": 0.162,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 110.968,
+      "frame": 3329,
+      "strength": 0.188,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 111.665,
+      "frame": 3350,
+      "strength": 0.189,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 112.408,
+      "frame": 3372,
+      "strength": 0.188,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 113.104,
+      "frame": 3393,
+      "strength": 0.213,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 113.824,
+      "frame": 3415,
+      "strength": 0.304,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 114.544,
+      "frame": 3436,
+      "strength": 0.193,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 115.264,
+      "frame": 3458,
+      "strength": 0.128,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 115.984,
+      "frame": 3480,
+      "strength": 0.443,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 116.68,
+      "frame": 3500,
+      "strength": 0.226,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 117.423,
+      "frame": 3523,
+      "strength": 0.21,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 118.143,
+      "frame": 3544,
+      "strength": 0.26,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 118.886,
+      "frame": 3567,
+      "strength": 0.116,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 119.583,
+      "frame": 3587,
+      "strength": 0.125,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 120.303,
+      "frame": 3609,
+      "strength": 0.294,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 121.046,
+      "frame": 3631,
+      "strength": 0.086,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 121.742,
+      "frame": 3652,
+      "strength": 0.285,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 122.485,
+      "frame": 3675,
+      "strength": 0.122,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 123.182,
+      "frame": 3695,
+      "strength": 0.381,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 123.925,
+      "frame": 3718,
+      "strength": 0.152,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 124.621,
+      "frame": 3739,
+      "strength": 0.129,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 125.318,
+      "frame": 3760,
+      "strength": 0.074,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 126.061,
+      "frame": 3782,
+      "strength": 0.402,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 126.758,
+      "frame": 3803,
+      "strength": 0.125,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 127.454,
+      "frame": 3824,
+      "strength": 0.041,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 128.174,
+      "frame": 3845,
+      "strength": 0.244,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 128.94,
+      "frame": 3868,
+      "strength": 0.287,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 129.591,
+      "frame": 3888,
+      "strength": 0.065,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 130.264,
+      "frame": 3908,
+      "strength": 0.339,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 131.1,
+      "frame": 3933,
+      "strength": 0.169,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 131.82,
+      "frame": 3955,
+      "strength": 0.254,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 132.563,
+      "frame": 3977,
+      "strength": 0.062,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 133.283,
+      "frame": 3998,
+      "strength": 0.11,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 134.002,
+      "frame": 4020,
+      "strength": 0.22,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 134.722,
+      "frame": 4042,
+      "strength": 0.171,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 135.442,
+      "frame": 4063,
+      "strength": 0.105,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 136.162,
+      "frame": 4085,
+      "strength": 0.094,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 136.882,
+      "frame": 4106,
+      "strength": 0.113,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 137.578,
+      "frame": 4127,
+      "strength": 0.297,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 138.298,
+      "frame": 4149,
+      "strength": 0.084,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 138.995,
+      "frame": 4170,
+      "strength": 0.171,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 139.738,
+      "frame": 4192,
+      "strength": 0.118,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 140.458,
+      "frame": 4214,
+      "strength": 0.277,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 141.177,
+      "frame": 4235,
+      "strength": 0.257,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 141.781,
+      "frame": 4253,
+      "strength": 0.036,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 142.385,
+      "frame": 4272,
+      "strength": 0.194,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 143.105,
+      "frame": 4293,
+      "strength": 0.235,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 143.824,
+      "frame": 4315,
+      "strength": 0.031,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 144.544,
+      "frame": 4336,
+      "strength": 0.085,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 145.264,
+      "frame": 4358,
+      "strength": 0.398,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 145.984,
+      "frame": 4380,
+      "strength": 0.111,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 146.657,
+      "frame": 4400,
+      "strength": 0.166,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 147.4,
+      "frame": 4422,
+      "strength": 0.098,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 148.12,
+      "frame": 4444,
+      "strength": 0.128,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 148.863,
+      "frame": 4466,
+      "strength": 0.228,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 149.606,
+      "frame": 4488,
+      "strength": 0.085,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 150.303,
+      "frame": 4509,
+      "strength": 0.072,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 151.023,
+      "frame": 4531,
+      "strength": 0.308,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 151.766,
+      "frame": 4553,
+      "strength": 0.133,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 152.509,
+      "frame": 4575,
+      "strength": 0.039,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 153.298,
+      "frame": 4599,
+      "strength": 0.258,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 154.064,
+      "frame": 4622,
+      "strength": 0.037,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 154.854,
+      "frame": 4646,
+      "strength": 0.245,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 155.597,
+      "frame": 4668,
+      "strength": 0.061,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 156.317,
+      "frame": 4690,
+      "strength": 0.082,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 157.037,
+      "frame": 4711,
+      "strength": 0.293,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 157.756,
+      "frame": 4733,
+      "strength": 0.192,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 158.476,
+      "frame": 4754,
+      "strength": 0.252,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 159.173,
+      "frame": 4775,
+      "strength": 0.069,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 159.916,
+      "frame": 4797,
+      "strength": 0.147,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 160.612,
+      "frame": 4818,
+      "strength": 0.276,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 161.332,
+      "frame": 4840,
+      "strength": 0.105,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 162.052,
+      "frame": 4862,
+      "strength": 0.037,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 162.772,
+      "frame": 4883,
+      "strength": 0.054,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 163.492,
+      "frame": 4905,
+      "strength": 0.521,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 164.212,
+      "frame": 4926,
+      "strength": 0.343,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 164.815,
+      "frame": 4944,
+      "strength": 0.39,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 165.419,
+      "frame": 4963,
+      "strength": 0.483,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 166.162,
+      "frame": 4985,
+      "strength": 0.045,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 166.859,
+      "frame": 5006,
+      "strength": 0.092,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 167.578,
+      "frame": 5027,
+      "strength": 0.302,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 168.298,
+      "frame": 5049,
+      "strength": 0.418,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 169.018,
+      "frame": 5071,
+      "strength": 0.152,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 169.761,
+      "frame": 5093,
+      "strength": 0.242,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 170.458,
+      "frame": 5114,
+      "strength": 0.026,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 171.178,
+      "frame": 5135,
+      "strength": 0.428,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 171.897,
+      "frame": 5157,
+      "strength": 0.181,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 172.64,
+      "frame": 5179,
+      "strength": 0.085,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 173.383,
+      "frame": 5202,
+      "strength": 0.208,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 174.057,
+      "frame": 5222,
+      "strength": 0.385,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 174.823,
+      "frame": 5245,
+      "strength": 0.089,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 175.52,
+      "frame": 5266,
+      "strength": 0.13,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 176.239,
+      "frame": 5287,
+      "strength": 0.128,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 176.913,
+      "frame": 5307,
+      "strength": 0.487,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 177.609,
+      "frame": 5328,
+      "strength": 0.107,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 178.306,
+      "frame": 5349,
+      "strength": 0.153,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 179.072,
+      "frame": 5372,
+      "strength": 0.052,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 179.815,
+      "frame": 5394,
+      "strength": 0.205,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 180.535,
+      "frame": 5416,
+      "strength": 0.09,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 181.255,
+      "frame": 5438,
+      "strength": 0.039,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 181.952,
+      "frame": 5459,
+      "strength": 0.108,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 182.695,
+      "frame": 5481,
+      "strength": 0.216,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 183.438,
+      "frame": 5503,
+      "strength": 0.21,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 184.157,
+      "frame": 5525,
+      "strength": 0.027,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 184.854,
+      "frame": 5546,
+      "strength": 0.078,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 185.597,
+      "frame": 5568,
+      "strength": 0.162,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 186.34,
+      "frame": 5590,
+      "strength": 0.16,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 187.106,
+      "frame": 5613,
+      "strength": 0.024,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 187.873,
+      "frame": 5636,
+      "strength": 0.205,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 188.616,
+      "frame": 5658,
+      "strength": 0.038,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 189.336,
+      "frame": 5680,
+      "strength": 0.146,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 190.102,
+      "frame": 5703,
+      "strength": 0.029,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 190.845,
+      "frame": 5725,
+      "strength": 0.143,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 191.588,
+      "frame": 5748,
+      "strength": 0.196,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 192.308,
+      "frame": 5769,
+      "strength": 0.202,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 193.027,
+      "frame": 5791,
+      "strength": 0.224,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 193.747,
+      "frame": 5812,
+      "strength": 0.068,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 194.467,
+      "frame": 5834,
+      "strength": 0.075,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 195.187,
+      "frame": 5856,
+      "strength": 0.392,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 195.884,
+      "frame": 5877,
+      "strength": 0.06,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 196.58,
+      "frame": 5897,
+      "strength": 0.13,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 197.323,
+      "frame": 5920,
+      "strength": 0.114,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 198.043,
+      "frame": 5941,
+      "strength": 0.19,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 198.786,
+      "frame": 5964,
+      "strength": 0.187,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 199.529,
+      "frame": 5986,
+      "strength": 0.084,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 200.226,
+      "frame": 6007,
+      "strength": 0.085,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 200.945,
+      "frame": 6028,
+      "strength": 0.28,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 201.689,
+      "frame": 6051,
+      "strength": 0.139,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 202.432,
+      "frame": 6073,
+      "strength": 0.072,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 203.221,
+      "frame": 6097,
+      "strength": 0.248,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 203.987,
+      "frame": 6120,
+      "strength": 0.067,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 204.777,
+      "frame": 6143,
+      "strength": 0.323,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 205.497,
+      "frame": 6165,
+      "strength": 0.072,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 206.216,
+      "frame": 6186,
+      "strength": 0.102,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 206.959,
+      "frame": 6209,
+      "strength": 0.245,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 207.656,
+      "frame": 6230,
+      "strength": 0.234,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 208.376,
+      "frame": 6251,
+      "strength": 0.216,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 209.096,
+      "frame": 6273,
+      "strength": 0.071,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 209.816,
+      "frame": 6294,
+      "strength": 0.08,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 210.512,
+      "frame": 6315,
+      "strength": 0.234,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 211.209,
+      "frame": 6336,
+      "strength": 0.029,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 211.929,
+      "frame": 6358,
+      "strength": 0.08,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 212.695,
+      "frame": 6381,
+      "strength": 0.119,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 213.415,
+      "frame": 6402,
+      "strength": 0.194,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 214.158,
+      "frame": 6425,
+      "strength": 0.178,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 214.854,
+      "frame": 6446,
+      "strength": 0.024,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 215.551,
+      "frame": 6467,
+      "strength": 0.08,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 216.294,
+      "frame": 6489,
+      "strength": 0.155,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 217.037,
+      "frame": 6511,
+      "strength": 0.197,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 217.757,
+      "frame": 6533,
+      "strength": 0.108,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 218.477,
+      "frame": 6554,
+      "strength": 0.145,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 219.173,
+      "frame": 6575,
+      "strength": 0.388,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 220.032,
+      "frame": 6601,
+      "strength": 0.173,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 220.799,
+      "frame": 6624,
+      "strength": 0.035,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 221.565,
+      "frame": 6647,
+      "strength": 0.148,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 222.308,
+      "frame": 6669,
+      "strength": 0.227,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 223.028,
+      "frame": 6691,
+      "strength": 0.165,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 223.747,
+      "frame": 6712,
+      "strength": 0.225,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 224.467,
+      "frame": 6734,
+      "strength": 0.051,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 225.187,
+      "frame": 6756,
+      "strength": 0.085,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 225.907,
+      "frame": 6777,
+      "strength": 0.399,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 226.604,
+      "frame": 6798,
+      "strength": 0.066,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 227.3,
+      "frame": 6819,
+      "strength": 0.105,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 228.043,
+      "frame": 6841,
+      "strength": 0.114,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 228.763,
+      "frame": 6863,
+      "strength": 0.175,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 229.506,
+      "frame": 6885,
+      "strength": 0.17,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 230.249,
+      "frame": 6907,
+      "strength": 0.088,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 230.946,
+      "frame": 6928,
+      "strength": 0.079,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 231.665,
+      "frame": 6950,
+      "strength": 0.281,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 232.409,
+      "frame": 6972,
+      "strength": 0.139,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 233.152,
+      "frame": 6995,
+      "strength": 0.077,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 233.941,
+      "frame": 7018,
+      "strength": 0.225,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 234.684,
+      "frame": 7041,
+      "strength": 0.085,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 235.497,
+      "frame": 7065,
+      "strength": 0.343,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 236.217,
+      "frame": 7086,
+      "strength": 0.05,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 236.936,
+      "frame": 7108,
+      "strength": 0.1,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 237.656,
+      "frame": 7130,
+      "strength": 0.232,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 238.376,
+      "frame": 7151,
+      "strength": 0.256,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 239.096,
+      "frame": 7173,
+      "strength": 0.234,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 239.816,
+      "frame": 7194,
+      "strength": 0.066,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 240.536,
+      "frame": 7216,
+      "strength": 0.074,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 241.232,
+      "frame": 7237,
+      "strength": 0.229,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 241.882,
+      "frame": 7256,
+      "strength": 0.025,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 242.532,
+      "frame": 7276,
+      "strength": 0.021,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 243.183,
+      "frame": 7295,
+      "strength": 0.322,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 243.902,
+      "frame": 7317,
+      "strength": 0.278,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 244.622,
+      "frame": 7339,
+      "strength": 0.358,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 245.342,
+      "frame": 7360,
+      "strength": 0.34,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 246.062,
+      "frame": 7382,
+      "strength": 0.466,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 246.805,
+      "frame": 7404,
+      "strength": 0.236,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 247.525,
+      "frame": 7426,
+      "strength": 0.05,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 248.245,
+      "frame": 7447,
+      "strength": 0.203,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 248.941,
+      "frame": 7468,
+      "strength": 0.658,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 249.661,
+      "frame": 7490,
+      "strength": 0.284,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 250.381,
+      "frame": 7511,
+      "strength": 0.332,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 251.101,
+      "frame": 7533,
+      "strength": 0.239,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 251.797,
+      "frame": 7554,
+      "strength": 0.516,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 252.54,
+      "frame": 7576,
+      "strength": 0.401,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 253.144,
+      "frame": 7594,
+      "strength": 0.393,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 253.748,
+      "frame": 7612,
+      "strength": 0.33,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 254.467,
+      "frame": 7634,
+      "strength": 0.348,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 255.187,
+      "frame": 7656,
+      "strength": 0.226,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 255.907,
+      "frame": 7677,
+      "strength": 0.317,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 256.604,
+      "frame": 7698,
+      "strength": 0.735,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 257.347,
+      "frame": 7720,
+      "strength": 0.228,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 258.067,
+      "frame": 7742,
+      "strength": 0.13,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 258.786,
+      "frame": 7764,
+      "strength": 0.238,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 259.483,
+      "frame": 7784,
+      "strength": 0.649,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 260.203,
+      "frame": 7806,
+      "strength": 0.251,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 260.807,
+      "frame": 7824,
+      "strength": 0.335,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 261.41,
+      "frame": 7842,
+      "strength": 0.666,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 262.153,
+      "frame": 7865,
+      "strength": 0.405,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 262.873,
+      "frame": 7886,
+      "strength": 0.092,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 263.593,
+      "frame": 7908,
+      "strength": 0.275,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 264.29,
+      "frame": 7929,
+      "strength": 0.899,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 265.009,
+      "frame": 7950,
+      "strength": 0.283,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 265.752,
+      "frame": 7973,
+      "strength": 0.136,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 266.472,
+      "frame": 7994,
+      "strength": 0.185,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 267.169,
+      "frame": 8015,
+      "strength": 0.714,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 267.889,
+      "frame": 8037,
+      "strength": 0.41,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 268.492,
+      "frame": 8055,
+      "strength": 0.414,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 269.096,
+      "frame": 8073,
+      "strength": 0.643,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 269.839,
+      "frame": 8095,
+      "strength": 0.299,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 270.559,
+      "frame": 8117,
+      "strength": 0.116,
+      "is_downbeat_guess": true
+    },
+    {
+      "sec": 271.279,
+      "frame": 8138,
+      "strength": 0.232,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 271.975,
+      "frame": 8159,
+      "strength": 0.838,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 272.927,
+      "frame": 8188,
+      "strength": 0.005,
+      "is_downbeat_guess": false
+    },
+    {
+      "sec": 273.67,
+      "frame": 8210,
+      "strength": 0.399,
+      "is_downbeat_guess": true
+    }
+  ],
+  "onsets_sec": [
+    1.022,
+    1.161,
+    1.324,
+    1.602,
+    1.718,
+    1.834,
+    1.927,
+    2.043,
+    2.159,
+    2.647,
+    3.065,
+    3.297,
+    3.599,
+    3.785,
+    4.087,
+    4.296,
+    4.551,
+    4.83,
+    5.062,
+    5.294,
+    5.41,
+    5.526,
+    5.689,
+    5.991,
+    6.478,
+    6.734,
+    6.873,
+    6.966,
+    7.152,
+    7.709,
+    7.918,
+    8.173,
+    8.406,
+    8.638,
+    8.87,
+    9.149,
+    9.265,
+    9.613,
+    9.845,
+    10.31,
+    10.519,
+    10.681,
+    10.82,
+    11.006,
+    11.238,
+    11.494,
+    11.773,
+    11.981,
+    12.214,
+    12.446,
+    12.725,
+    12.957,
+    13.096,
+    13.212,
+    13.421,
+    13.7,
+    14.141,
+    14.396,
+    14.536,
+    14.652,
+    14.814,
+    15.093,
+    15.256,
+    15.557,
+    15.836,
+    16.068,
+    16.3,
+    16.579,
+    16.811,
+    16.927,
+    17.043,
+    17.252,
+    17.531,
+    17.717,
+    18.251,
+    18.413,
+    18.506,
+    18.739,
+    18.947,
+    19.156,
+    19.458,
+    19.621,
+    20.387,
+    20.596,
+    20.782,
+    21.13,
+    21.362,
+    21.571,
+    22.105,
+    22.338,
+    22.477,
+    22.593,
+    22.965,
+    23.243,
+    23.545,
+    23.754,
+    24.218,
+    24.474,
+    24.613,
+    24.776,
+    25.194,
+    25.472,
+    25.681,
+    25.96,
+    26.053,
+    26.169,
+    26.378,
+    27.144,
+    27.376,
+    27.609,
+    28.073,
+    28.328,
+    28.444,
+    28.561,
+    28.77,
+    28.909,
+    29.304,
+    29.513,
+    29.768,
+    30.0,
+    30.163,
+    30.511,
+    30.999,
+    31.208,
+    31.718,
+    31.951,
+    32.299,
+    32.438,
+    32.833,
+    32.903,
+    33.158,
+    33.321,
+    33.646,
+    33.762,
+    33.855,
+    34.11,
+    34.296,
+    34.783,
+    35.643,
+    35.782,
+    35.898,
+    36.13,
+    36.734,
+    36.966,
+    37.129,
+    37.338,
+    37.686,
+    38.174,
+    38.615,
+    38.917,
+    39.149,
+    39.381,
+    39.59,
+    39.776,
+    39.962,
+    40.101,
+    40.287,
+    40.356,
+    40.588,
+    40.821,
+    41.006,
+    41.308,
+    41.517,
+    41.773,
+    41.935,
+    42.167,
+    42.446,
+    42.446,
+    42.725,
+    43.212,
+    43.421,
+    43.816,
+    44.164,
+    44.35,
+    44.675,
+    44.907,
+    45.093,
+    45.372,
+    45.558,
+    45.859,
+    46.045,
+    46.277,
+    46.347,
+    47.02,
+    47.229,
+    47.554,
+    47.671,
+    47.787,
+    47.972,
+    48.251,
+    48.739,
+    48.924,
+    49.226,
+    49.366,
+    49.621,
+    50.155,
+    50.411,
+    50.852,
+    51.13,
+    51.27,
+    51.502,
+    51.618,
+    51.734,
+    52.059,
+    52.291,
+    52.779,
+    53.058,
+    53.29,
+    53.429,
+    54.01,
+    54.242,
+    54.497,
+    54.985,
+    55.194,
+    55.333,
+    55.635,
+    55.937,
+    56.099,
+    56.424,
+    56.633,
+    56.889,
+    57.051,
+    57.237,
+    57.353,
+    57.539,
+    57.655,
+    57.818,
+    58.027,
+    58.375,
+    58.723,
+    59.048,
+    59.188,
+    59.513,
+    59.768,
+    60.024,
+    60.07,
+    60.349,
+    60.465,
+    60.743,
+    60.86,
+    61.161,
+    61.394,
+    61.486,
+    61.695,
+    62.276,
+    62.601,
+    62.903,
+    63.019,
+    63.135,
+    63.344,
+    63.623,
+    63.785,
+    63.994,
+    64.551,
+    64.807,
+    65.527,
+    65.991,
+    66.27,
+    66.479,
+    66.757,
+    66.85,
+    67.199,
+    67.454,
+    68.406,
+    68.638,
+    69.172,
+    69.358,
+    70.078,
+    70.333,
+    70.589,
+    70.682,
+    71.262,
+    71.68,
+    72.028,
+    72.168,
+    72.237,
+    72.469,
+    73.166,
+    73.677,
+    73.932,
+    74.165,
+    74.42,
+    74.536,
+    75.117,
+    75.511,
+    75.836,
+    75.976,
+    76.092,
+    76.812,
+    77.044,
+    77.996,
+    78.391,
+    78.483,
+    78.948,
+    79.389,
+    79.714,
+    79.83,
+    79.946,
+    80.155,
+    80.852,
+    81.363,
+    81.595,
+    81.804,
+    82.083,
+    82.222,
+    82.524,
+    83.778,
+    84.521,
+    84.753,
+    84.962,
+    85.658,
+    85.914,
+    86.076,
+    86.192,
+    86.425,
+    86.634,
+    87.4,
+    87.609,
+    88.584,
+    89.049,
+    89.258,
+    89.466,
+    89.768,
+    89.908,
+    90.14,
+    90.511,
+    90.86,
+    91.231,
+    91.463,
+    92.114,
+    92.415,
+    92.624,
+    93.112,
+    93.298,
+    93.298,
+    93.623,
+    93.739,
+    94.343,
+    95.039,
+    95.295,
+    95.782,
+    96.015,
+    96.223,
+    96.456,
+    96.967,
+    97.222,
+    97.454,
+    97.57,
+    97.686,
+    97.942,
+    98.128,
+    98.894,
+    99.033,
+    99.126,
+    100.101,
+    100.31,
+    100.566,
+    100.728,
+    101.053,
+    101.285,
+    101.518,
+    101.68,
+    102.005,
+    102.214,
+    102.98,
+    103.213,
+    103.329,
+    103.654,
+    103.886,
+    104.165,
+    104.885,
+    105.024,
+    105.302,
+    105.511,
+    105.813,
+    105.999,
+    106.255,
+    106.603,
+    106.789,
+    107.16,
+    107.741,
+    107.996,
+    108.275,
+    108.46,
+    108.716,
+    108.855,
+    109.087,
+    109.691,
+    109.9,
+    110.295,
+    110.62,
+    110.875,
+    111.015,
+    111.525,
+    111.804,
+    112.06,
+    112.338,
+    112.477,
+    113.058,
+    113.522,
+    113.778,
+    114.474,
+    114.846,
+    114.962,
+    115.45,
+    115.635,
+    115.868,
+    116.146,
+    116.425,
+    116.564,
+    116.843,
+    117.354,
+    117.632,
+    118.097,
+    118.329,
+    118.491,
+    118.7,
+    118.84,
+    118.956,
+    119.258,
+    119.467,
+    120.024,
+    120.256,
+    120.488,
+    120.628,
+    121.231,
+    121.371,
+    121.696,
+    122.183,
+    122.532,
+    122.834,
+    123.112,
+    123.623,
+    123.832,
+    124.087,
+    124.273,
+    124.436,
+    124.552,
+    124.854,
+    124.97,
+    125.504,
+    125.945,
+    126.224,
+    126.386,
+    126.967,
+    127.222,
+    127.269,
+    127.663,
+    127.942,
+    128.058,
+    128.337,
+    128.592,
+    128.894,
+    129.103,
+    129.474,
+    129.8,
+    130.101,
+    130.218,
+    130.357,
+    130.543,
+    130.821,
+    131.007,
+    131.17,
+    131.564,
+    131.75,
+    132.005,
+    132.261,
+    132.725,
+    133.468,
+    133.7,
+    133.956,
+    134.049,
+    134.397,
+    134.653,
+    135.605,
+    135.837,
+    136.348,
+    136.533,
+    137.276,
+    137.509,
+    137.741,
+    137.903,
+    138.019,
+    138.484,
+    138.948,
+    139.227,
+    139.459,
+    139.668,
+    140.341,
+    140.875,
+    141.154,
+    141.34,
+    141.619,
+    141.735,
+    142.315,
+    143.035,
+    143.174,
+    143.314,
+    144.01,
+    144.219,
+    145.194,
+    145.45,
+    145.566,
+    146.193,
+    146.541,
+    146.913,
+    147.029,
+    147.145,
+    147.261,
+    148.05,
+    148.561,
+    148.793,
+    149.072,
+    149.165,
+    149.42,
+    149.722,
+    150.976,
+    151.719,
+    151.859,
+    152.184,
+    152.857,
+    153.112,
+    153.275,
+    153.368,
+    153.554,
+    153.832,
+    154.575,
+    154.807,
+    155.759,
+    156.456,
+    156.735,
+    156.874,
+    157.083,
+    157.408,
+    157.71,
+    158.383,
+    158.662,
+    159.312,
+    159.591,
+    159.846,
+    160.287,
+    160.496,
+    160.589,
+    160.798,
+    160.938,
+    161.518,
+    162.238,
+    162.493,
+    162.981,
+    163.236,
+    163.422,
+    163.701,
+    164.188,
+    164.374,
+    164.606,
+    164.769,
+    164.885,
+    165.094,
+    165.373,
+    165.79,
+    166.348,
+    167.3,
+    167.532,
+    167.648,
+    167.811,
+    168.02,
+    168.275,
+    168.623,
+    168.972,
+    169.204,
+    169.691,
+    169.97,
+    170.179,
+    170.434,
+    171.061,
+    171.317,
+    171.479,
+    171.828,
+    172.037,
+    172.339,
+    172.455,
+    172.803,
+    172.965,
+    173.291,
+    173.778,
+    174.01,
+    174.637,
+    174.939,
+    175.148,
+    175.427,
+    175.682,
+    175.914,
+    176.286,
+    176.681,
+    176.866,
+    177.029,
+    177.865,
+    178.19,
+    179.769,
+    180.14,
+    180.582,
+    180.721,
+    181.673,
+    181.882,
+    182.207,
+    182.625,
+    183.089,
+    183.391,
+    183.623,
+    183.879,
+    183.995,
+    184.297,
+    184.575,
+    185.272,
+    185.527,
+    185.783,
+    186.247,
+    187.199,
+    187.455,
+    187.803,
+    188.36,
+    188.801,
+    188.871,
+    189.15,
+    189.382,
+    189.568,
+    190.288,
+    190.798,
+    191.054,
+    191.263,
+    191.541,
+    191.634,
+    192.238,
+    192.633,
+    192.981,
+    193.097,
+    193.236,
+    193.933,
+    194.606,
+    195.117,
+    195.512,
+    196.836,
+    196.952,
+    197.973,
+    198.461,
+    198.716,
+    198.902,
+    199.204,
+    199.343,
+    199.599,
+    199.947,
+    200.899,
+    201.642,
+    202.083,
+    202.826,
+    203.059,
+    203.175,
+    203.291,
+    203.453,
+    203.709,
+    204.498,
+    204.73,
+    205.682,
+    206.356,
+    206.658,
+    206.867,
+    207.006,
+    207.308,
+    207.61,
+    207.981,
+    208.26,
+    208.585,
+    209.235,
+    209.746,
+    210.21,
+    210.419,
+    210.512,
+    210.721,
+    210.86,
+    211.441,
+    212.393,
+    213.322,
+    214.111,
+    214.343,
+    214.599,
+    214.692,
+    215.04,
+    215.295,
+    216.247,
+    216.503,
+    216.99,
+    217.223,
+    217.71,
+    217.919,
+    218.151,
+    218.384,
+    218.546,
+    219.127,
+    219.986,
+    220.102,
+    220.288,
+    221.008,
+    221.518,
+    221.774,
+    222.006,
+    222.261,
+    222.378,
+    222.958,
+    223.655,
+    223.817,
+    223.933,
+    224.653,
+    225.326,
+    225.814,
+    226.232,
+    227.556,
+    227.672,
+    227.788,
+    228.624,
+    229.181,
+    229.413,
+    229.692,
+    229.924,
+    230.063,
+    230.296,
+    230.667,
+    231.619,
+    232.316,
+    232.501,
+    232.826,
+    233.546,
+    233.779,
+    233.895,
+    234.034,
+    234.173,
+    234.475,
+    235.218,
+    235.334,
+    235.45,
+    236.379,
+    237.029,
+    237.401,
+    237.494,
+    237.726,
+    238.051,
+    238.33,
+    238.701,
+    238.98,
+    239.305,
+    239.955,
+    240.28,
+    240.466,
+    240.93,
+    241.139,
+    241.232,
+    241.441,
+    241.58,
+    241.882,
+    242.161,
+    242.625,
+    242.858,
+    243.136,
+    243.601,
+    243.81,
+    244.065,
+    244.297,
+    244.553,
+    244.762,
+    245.063,
+    245.296,
+    245.412,
+    245.528,
+    245.783,
+    245.992,
+    246.758,
+    246.875,
+    246.991,
+    247.223,
+    247.71,
+    247.943,
+    248.198,
+    248.662,
+    248.871,
+    249.127,
+    249.266,
+    249.406,
+    249.591,
+    249.847,
+    250.334,
+    250.567,
+    250.706,
+    250.822,
+    250.961,
+    251.286,
+    251.542,
+    251.774,
+    252.006,
+    252.238,
+    252.447,
+    252.726,
+    252.958,
+    253.098,
+    253.214,
+    253.423,
+    253.678,
+    254.398,
+    254.537,
+    254.653,
+    255.118,
+    255.35,
+    255.605,
+    255.861,
+    256.325,
+    256.534,
+    256.813,
+    256.929,
+    257.068,
+    257.3,
+    257.486,
+    257.765,
+    257.997,
+    258.252,
+    258.392,
+    258.485,
+    258.717,
+    258.972,
+    259.228,
+    259.46,
+    259.715,
+    259.947,
+    260.18,
+    260.389,
+    260.644,
+    260.783,
+    261.132,
+    261.364,
+    262.107,
+    262.246,
+    262.339,
+    262.525,
+    263.059,
+    263.291,
+    263.477,
+    264.011,
+    264.22,
+    264.475,
+    264.615,
+    264.754,
+    264.963,
+    265.218,
+    265.66,
+    265.938,
+    266.054,
+    266.17,
+    266.403,
+    266.658,
+    266.913,
+    267.122,
+    267.355,
+    267.865,
+    268.074,
+    268.33,
+    268.446,
+    268.585,
+    268.817,
+    269.05,
+    269.537,
+    269.7,
+    269.886,
+    270.025,
+    270.489,
+    270.745,
+    270.977,
+    271.232,
+    271.65,
+    271.929,
+    272.161,
+    272.3,
+    272.44,
+    272.649,
+    272.881,
+    273.601,
+    273.74,
+    273.856
+  ],
+  "sections": [
+    {
+      "sec": 0.0,
+      "frame": 0
+    },
+    {
+      "sec": 2.392,
+      "frame": 72
+    },
+    {
+      "sec": 96.015,
+      "frame": 2880
+    },
+    {
+      "sec": 119.443,
+      "frame": 3583
+    },
+    {
+      "sec": 165.86,
+      "frame": 4976
+    },
+    {
+      "sec": 167.16,
+      "frame": 5015
+    },
+    {
+      "sec": 257.997,
+      "frame": 7740
+    },
+    {
+      "sec": 259.228,
+      "frame": 7777
+    }
+  ],
+  "energy_curve": {
+    "step_sec": 0.5,
+    "values": [
+      0.0,
+      0.0,
+      0.007,
+      0.007,
+      0.01,
+      0.37,
+      0.325,
+      0.332,
+      0.131,
+      0.344,
+      0.302,
+      0.795,
+      0.398,
+      0.422,
+      0.33,
+      0.241,
+      0.751,
+      0.248,
+      0.352,
+      0.352,
+      0.733,
+      0.297,
+      0.248,
+      0.158,
+      0.463,
+      0.334,
+      0.278,
+      0.279,
+      0.339,
+      0.35,
+      0.234,
+      0.132,
+      0.245,
+      0.304,
+      0.765,
+      0.292,
+      0.463,
+      0.411,
+      0.373,
+      0.762,
+      0.381,
+      0.477,
+      0.424,
+      0.765,
+      0.309,
+      0.227,
+      0.184,
+      0.489,
+      0.432,
+      0.38,
+      0.374,
+      0.318,
+      0.237,
+      0.419,
+      0.434,
+      0.333,
+      0.389,
+      0.688,
+      0.255,
+      0.209,
+      0.282,
+      0.564,
+      0.571,
+      0.479,
+      0.278,
+      0.559,
+      0.812,
+      0.377,
+      0.386,
+      0.209,
+      0.634,
+      0.433,
+      0.376,
+      0.245,
+      0.489,
+      0.319,
+      0.291,
+      0.117,
+      0.391,
+      0.396,
+      0.571,
+      0.379,
+      0.299,
+      0.321,
+      0.218,
+      0.434,
+      0.429,
+      0.319,
+      0.594,
+      0.772,
+      0.513,
+      0.317,
+      0.236,
+      0.693,
+      0.316,
+      0.332,
+      0.344,
+      0.403,
+      0.289,
+      0.556,
+      0.234,
+      0.339,
+      0.479,
+      0.559,
+      0.368,
+      0.323,
+      0.231,
+      0.353,
+      0.44,
+      0.303,
+      0.349,
+      0.651,
+      0.776,
+      0.366,
+      0.313,
+      0.452,
+      0.727,
+      0.389,
+      0.316,
+      0.348,
+      0.475,
+      0.403,
+      0.312,
+      0.337,
+      0.384,
+      0.398,
+      0.37,
+      0.333,
+      0.33,
+      0.245,
+      0.265,
+      0.546,
+      0.318,
+      0.409,
+      0.731,
+      0.605,
+      0.328,
+      0.493,
+      0.296,
+      0.679,
+      0.181,
+      0.283,
+      0.251,
+      0.525,
+      0.355,
+      0.342,
+      0.542,
+      0.458,
+      0.427,
+      0.444,
+      0.437,
+      0.333,
+      0.356,
+      0.362,
+      0.28,
+      0.302,
+      0.377,
+      0.796,
+      0.663,
+      0.428,
+      0.486,
+      0.443,
+      0.728,
+      0.454,
+      0.427,
+      0.209,
+      0.599,
+      0.3,
+      0.313,
+      0.358,
+      0.433,
+      0.396,
+      0.325,
+      0.369,
+      0.227,
+      0.376,
+      0.456,
+      0.221,
+      0.285,
+      0.378,
+      0.762,
+      0.539,
+      0.285,
+      0.34,
+      0.298,
+      0.742,
+      0.261,
+      0.349,
+      0.324,
+      0.747,
+      0.248,
+      0.239,
+      0.116,
+      0.404,
+      0.25,
+      0.094,
+      0.281,
+      0.092,
+      0.058,
+      0.005,
+      0.001,
+      0.331,
+      0.375,
+      0.849,
+      0.396,
+      0.331,
+      0.435,
+      0.688,
+      0.755,
+      0.43,
+      0.257,
+      0.347,
+      0.72,
+      0.387,
+      0.443,
+      0.241,
+      0.501,
+      0.411,
+      0.333,
+      0.306,
+      0.516,
+      0.4,
+      0.561,
+      0.32,
+      0.269,
+      0.382,
+      0.46,
+      0.228,
+      0.525,
+      0.378,
+      0.736,
+      0.715,
+      0.359,
+      0.455,
+      0.287,
+      0.749,
+      0.435,
+      0.333,
+      0.33,
+      0.511,
+      0.304,
+      0.353,
+      0.254,
+      0.37,
+      0.443,
+      0.476,
+      0.428,
+      0.445,
+      0.358,
+      0.289,
+      0.448,
+      0.38,
+      0.398,
+      0.774,
+      0.625,
+      0.296,
+      0.284,
+      0.348,
+      0.792,
+      0.188,
+      0.343,
+      0.249,
+      0.669,
+      0.338,
+      0.398,
+      0.359,
+      0.48,
+      0.529,
+      0.445,
+      0.426,
+      0.419,
+      0.358,
+      0.385,
+      0.252,
+      0.272,
+      0.404,
+      0.759,
+      0.524,
+      0.424,
+      0.431,
+      0.377,
+      0.714,
+      0.458,
+      0.283,
+      0.264,
+      0.685,
+      0.371,
+      0.232,
+      0.285,
+      0.404,
+      0.335,
+      0.268,
+      0.348,
+      0.27,
+      0.236,
+      0.258,
+      0.552,
+      0.307,
+      0.413,
+      0.767,
+      0.494,
+      0.335,
+      0.396,
+      0.347,
+      0.741,
+      0.358,
+      0.202,
+      0.433,
+      0.763,
+      0.439,
+      0.394,
+      0.318,
+      0.508,
+      0.312,
+      0.394,
+      0.369,
+      0.375,
+      0.333,
+      0.298,
+      0.283,
+      0.224,
+      0.302,
+      0.684,
+      0.317,
+      0.308,
+      0.306,
+      0.259,
+      0.635,
+      0.189,
+      0.274,
+      0.43,
+      0.84,
+      0.334,
+      0.397,
+      0.378,
+      0.532,
+      0.37,
+      0.293,
+      0.236,
+      0.27,
+      0.345,
+      0.483,
+      0.216,
+      0.39,
+      0.499,
+      0.694,
+      0.255,
+      0.284,
+      0.491,
+      0.321,
+      0.641,
+      0.364,
+      0.518,
+      0.593,
+      0.709,
+      0.553,
+      0.674,
+      0.56,
+      0.571,
+      0.461,
+      0.514,
+      0.4,
+      0.517,
+      0.459,
+      0.361,
+      0.456,
+      0.47,
+      0.444,
+      0.548,
+      0.465,
+      0.316,
+      0.3,
+      0.272,
+      0.576,
+      0.26,
+      0.396,
+      0.584,
+      0.768,
+      0.503,
+      0.428,
+      0.675,
+      0.705,
+      0.455,
+      0.351,
+      0.429,
+      0.437,
+      0.394,
+      0.355,
+      0.495,
+      0.375,
+      0.472,
+      0.493,
+      0.416,
+      0.318,
+      0.287,
+      0.367,
+      0.645,
+      0.357,
+      0.479,
+      0.731,
+      0.696,
+      0.362,
+      0.478,
+      0.387,
+      0.672,
+      0.326,
+      0.394,
+      0.2,
+      0.444,
+      0.331,
+      0.463,
+      0.333,
+      0.403,
+      0.434,
+      0.484,
+      0.397,
+      0.339,
+      0.313,
+      0.358,
+      0.384,
+      0.224,
+      0.353,
+      0.726,
+      0.754,
+      0.58,
+      0.509,
+      0.491,
+      0.732,
+      0.553,
+      0.351,
+      0.216,
+      0.511,
+      0.268,
+      0.342,
+      0.476,
+      0.249,
+      0.408,
+      0.365,
+      0.362,
+      0.209,
+      0.255,
+      0.292,
+      0.479,
+      0.245,
+      0.401,
+      0.807,
+      0.597,
+      0.308,
+      0.41,
+      0.338,
+      0.727,
+      0.359,
+      0.304,
+      0.274,
+      0.706,
+      0.46,
+      0.37,
+      0.529,
+      0.426,
+      0.491,
+      0.363,
+      0.424,
+      0.233,
+      0.263,
+      0.325,
+      0.279,
+      0.239,
+      0.494,
+      0.789,
+      0.541,
+      0.51,
+      0.477,
+      0.504,
+      0.798,
+      0.363,
+      0.463,
+      0.29,
+      0.663,
+      0.313,
+      0.348,
+      0.231,
+      0.412,
+      0.339,
+      0.307,
+      0.407,
+      0.382,
+      0.355,
+      0.208,
+      0.2,
+      0.276,
+      0.313,
+      0.812,
+      0.398,
+      0.357,
+      0.284,
+      0.252,
+      0.769,
+      0.259,
+      0.24,
+      0.31,
+      0.786,
+      0.361,
+      0.237,
+      0.134,
+      0.511,
+      0.258,
+      0.175,
+      0.324,
+      0.376,
+      0.368,
+      0.26,
+      0.147,
+      0.273,
+      0.331,
+      0.774,
+      0.307,
+      0.29,
+      0.274,
+      0.216,
+      0.801,
+      0.324,
+      0.371,
+      0.479,
+      0.765,
+      0.184,
+      0.138,
+      0.101,
+      0.52,
+      0.221,
+      0.167,
+      0.262,
+      0.354,
+      0.258,
+      0.255,
+      0.115,
+      0.273,
+      0.335,
+      0.7,
+      0.266,
+      0.295,
+      0.269,
+      0.234,
+      0.631,
+      0.231,
+      0.337,
+      0.549,
+      1.0,
+      0.015,
+      0.005,
+      0.001,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}
