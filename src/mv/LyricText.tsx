@@ -79,11 +79,18 @@ export const LyricText: React.FC<{bottom?: number; fontSize?: number}> = ({
       }}
     >
       {LYRICS.map((l, i) => {
-        // 只渲染时间上挨得近的两句，避免 44 句 × 每句十几个 span 全挂着
-        if (sec < l.sec - LEAD - 0.5 || sec > l.sec + TAIL + 0.8) return null;
+        // 整行的结束时间**按最后一个字算**，不能用固定的 TAIL。
+        // 每句时长差很多（有的 3 秒、有的 5 秒），写死 TAIL 会让长句
+        // 唱到一半就消失 —— 实测第一句最后一个字在 20.04s，
+        // 而 17.1+1.4=18.5s 就把整行抹掉了。
+        const lastSec = l.chars.length ? l.chars[l.chars.length - 1].sec : l.sec;
+        const endSec = Math.max(lastSec + TAIL, l.sec + 2.0);
+
+        // 只渲染时间上挨得近的，避免 44 句 × 每句十几个 span 全挂着
+        if (sec < l.sec - LEAD - 0.5 || sec > endSec + 0.8) return null;
 
         const startF = (l.sec - LEAD) * FPS;
-        const endF = (l.sec + TAIL) * FPS;
+        const endF = endSec * FPS;
         const opacity = Math.min(
           interpolate(frame, [startF, startF + FADE], [0, 1], {
             extrapolateLeft: 'clamp',
