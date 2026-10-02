@@ -1,64 +1,34 @@
 import React from 'react';
-import {interpolate, interpolateColors, useCurrentFrame} from 'remotion';
-import {LYRICS, type LyricChar} from '../lyricTiming';
+import {interpolate, useCurrentFrame} from 'remotion';
+import {LYRICS} from '../lyricTiming';
 
 /**
- * 歌词层 —— 逐字点亮。
+ * 歌词层 —— 整行显示。
  *
- * 参考 pdoom-video 的排版规则：**每个词单独同步**、**已唱/未唱要有区别**、
- * 动的是字本身而不是整块文字。
+ * 显示区间：**本行起点 → 下一句起点**。就这么简单。
  *
- * 具体做法（为慢歌调的，克制优先）：
- *   未唱到 —— 暗冷蓝，透明度 0.26
- *   正在唱 —— 白色 + 光晕，上浮 3px、放大 6%，0.22 秒软收回
- *   已唱过 —— 保持在亮过一档的冷蓝
+ * 试过三种算法，前两种都是错的：
+ *   1. `行起点 + 固定值` —— 各句时长差很多（3～9 秒），写死会让长句唱到一半消失
+ *   2. `行起点 + 末字时间 + 尾量` —— **会和下一句重叠**。
+ *      第一句算到 21.24 秒，而第二句 20.85 秒就该出现，重叠 0.39 秒
+ *   3. 用生成数据里的 endFrame —— 它是 `min(下一句, 本句+4.2)`，
+ *      那个 4.2 秒上限把副歌的长句砍掉过 4.95 秒（30 句余量为负）
  *
- * 光会**沿着句子走**：不是整行一起亮，是一道缓慢扫过的亮。
- * 不做弹跳、不做彩色、不做快速位移 —— 那些和伤感是冲突的。
+ * 用「下一句起点」当结束时间，两个问题一起解决：不重叠，也不截断。
+ *
+ * 另外砍掉了逐字点亮（卡拉OK 式）。它是「欢快/跟唱」语境的视觉语言，
+ * 放在分手的慢歌上和情绪打架；而且未唱的字要压暗才突得出"正在唱"，
+ * 压暗就读不出来了。安静地整行显示更适合这首歌。
  */
 
 const FPS = 30;
 
-/** 行级别的淡入淡出帧数 */
-const FADE = 10;
-/** 整行提前多久出现（让暗着的字先就位，歌声再点亮它） */
-const LEAD = 0.45;
-/** 唱到之后保留多久 */
-const TAIL = 1.4;
-
-const LyricCharSpan: React.FC<{c: LyricChar}> = ({c}) => {
-  const frame = useCurrentFrame();
-  const tf = c.sec * FPS;
-  const d = (frame - tf) / FPS; // 秒。负 = 还没唱到
-
-  // 亮起：稍微提前一点，让字"迎着"歌声亮起来，而不是等唱完才反应
-  const lit = interpolate(d, [-0.1, 0.06], [0, 1], {
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
-
-  // 弹起：唱到的瞬间最大，之后软收回
-  const pop = d < 0 ? 0 : Math.exp(-d / 0.22);
-
-  const color = interpolateColors(lit, [0, 1], ['#6E86C8', '#FFFFFF']);
-
-  return (
-    <span
-      style={{
-        display: 'inline-block',
-        color,
-        // 上浮 + 放大都走 transform，不触发布局，字距不会被挤动
-        transform: `translateY(${-pop * 3}px) scale(${1 + pop * 0.06})`,
-        textShadow: pop > 0.05
-          ? `0 0 ${10 + pop * 26}px rgba(150,190,255,${0.25 + pop * 0.6})`
-          : 'none',
-        whiteSpace: 'pre',
-      }}
-    >
-      {c.ch}
-    </span>
-  );
-};
+/** 淡入淡出帧数 */
+const FADE = 9;
+/** 整行提前多久出现（让文字先就位，歌声再进来） */
+const LEAD = 0.35;
+/** 最后一句唱完后再显示多久 */
+const LAST_TAIL = 4.0;
 
 export const LyricText: React.FC<{bottom?: number; fontSize?: number}> = ({
   bottom = 150,
@@ -79,18 +49,17 @@ export const LyricText: React.FC<{bottom?: number; fontSize?: number}> = ({
       }}
     >
       {LYRICS.map((l, i) => {
-        // 整行的结束时间**按最后一个字算**，不能用固定的 TAIL。
-        // 每句时长差很多（有的 3 秒、有的 5 秒），写死 TAIL 会让长句
-        // 唱到一半就消失 —— 实测第一句最后一个字在 20.04s，
-        // 而 17.1+1.4=18.5s 就把整行抹掉了。
-        const lastSec = l.chars.length ? l.chars[l.chars.length - 1].sec : l.sec;
-        const endSec = Math.max(lastSec + TAIL, l.sec + 2.0);
+        const startSec = l.sec - LEAD;
+        const endSec =
+          i + 1 < LYRICS.length ? LYRICS[i + 1].sec - LEAD : l.sec + LAST_TAIL;
 
-        // 只渲染时间上挨得近的，避免 44 句 × 每句十几个 span 全挂着
-        if (sec < l.sec - LEAD - 0.5 || sec > endSec + 0.8) return null;
+        // 只渲染时间上挨得近的
+        if (sec < startSec - 0.4 || sec > endSec + 0.4) return null;
 
-        const startF = (l.sec - LEAD) * FPS;
+        const startF = startSec * FPS;
         const endF = endSec * FPS;
+
+        // 淡入 + 淡出；两段区间不重叠，所以不会同时出现两句
         const opacity = Math.min(
           interpolate(frame, [startF, startF + FADE], [0, 1], {
             extrapolateLeft: 'clamp',
@@ -103,6 +72,12 @@ export const LyricText: React.FC<{bottom?: number; fontSize?: number}> = ({
         );
         if (opacity <= 0.001) return null;
 
+        // 入场轻微上浮，之后完全静止 —— 不做任何持续运动
+        const rise = interpolate(frame, [startF, startF + FADE], [14, 0], {
+          extrapolateLeft: 'clamp',
+          extrapolateRight: 'clamp',
+        });
+
         return (
           <div
             key={i}
@@ -113,12 +88,14 @@ export const LyricText: React.FC<{bottom?: number; fontSize?: number}> = ({
               fontWeight: 500,
               letterSpacing: 6,
               whiteSpace: 'nowrap',
+              color: '#EAF1FF',
               opacity,
+              transform: `translateY(${rise}px)`,
+              textShadow:
+                '0 2px 24px rgba(10,18,45,0.95), 0 0 46px rgba(120,170,255,0.4)',
             }}
           >
-            {l.chars.map((c, j) => (
-              <LyricCharSpan key={j} c={c} />
-            ))}
+            {l.text}
           </div>
         );
       })}
